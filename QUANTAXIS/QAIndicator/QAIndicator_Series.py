@@ -60,7 +60,7 @@ def SMA(Series, N, M=1):
     preY = Series.iloc[i]  # Y'
     ret.append(preY)
     while i < length:
-        Y = (M * Series[i] + (N - M) * preY) / float(N)
+        Y = (M * Series.iloc[i] + (N - M) * preY) / float(N)
         ret.append(Y)
         preY = Y
         i += 1
