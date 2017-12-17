@@ -19,7 +19,7 @@
 ![QAS](https://img.shields.io/badge/QAS-%200.0.8-brown.svg)
 ![Pypi](https://img.shields.io/badge/Pypi-%200.5.28-blue.svg)
 ![python](https://img.shields.io/badge/python-%203.6/3.5/3.4-darkgrey.svg)
-![System](https://img.shields.io/badge/win/ubuntu/mac-black.svg)
+![System](https://img.shields.io/badge/Sytsem-%20win/ubuntu/mac-black.svg)
 ![Npm](https://img.shields.io/badge/Npm-%200.4.0-yellow.svg)
 ![author](https://img.shields.io/badge/Powered%20by-%20%20yutiansut-red.svg)
 ![license](https://img.shields.io/badge/License-%20MIT-brightgreen.svg)
